@@ -14,7 +14,7 @@ npx create-next-app@latest . --ts --tailwind --eslint --app --src-dir --import-a
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+## To run this project
 
 First, run the development server:
 
