@@ -1,4 +1,4 @@
-This app is to learn ablut Next.js. I going to study javascript and Next.js step by step.
+This app is to learn about Next.js. I going to study javascript and Next.js step by step.
 
 
 
