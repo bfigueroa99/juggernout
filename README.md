@@ -1,4 +1,8 @@
+# Juggernout Next.js App
+
 This app is to learn about Next.js. I going to study javascript and Next.js step by step.
+
+## Fist Steps
 
 The first comand to create this app is:
 ```bash
