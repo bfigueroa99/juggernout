@@ -5,8 +5,6 @@ The first comand to create this app is:
 npx create-next-app@latest . --ts --tailwind --eslint --app --src-dir --import-alias '@/*' --use-npm 
 ```
 
-npx create-next-app@latest . --ts --tailwind --eslint --app --src-dir --import-alias '@/*' --use-npm 
-
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
